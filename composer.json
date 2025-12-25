@@ -23,12 +23,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Antidc\\Api": "src/"
+            "Antidc\\Api\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Antidc\\Api": "src/"
+            "Antidc\\Api\\": "src/"
         }
     }
 }
