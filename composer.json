@@ -1,10 +1,10 @@
 
 {
-    "name": "Antidc/api",
+    "name": "antidc/api",
     "description": "api v1",
     "type": "library",
     "keywords": [
-        "Antidc",
+        "antidc",
         "v1",
         "api"
     ],
