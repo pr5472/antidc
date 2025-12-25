@@ -1,0 +1,35 @@
+
+{
+    "name": "Antidc/api",
+    "description": "api v1",
+    "type": "library",
+    "keywords": [
+        "Antidc",
+        "v1",
+        "api"
+    ],
+    "authors": [
+        {
+            "name": "pr5472",
+            "email": "15228250519@163.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^8.0"
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Antidc\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Antidc\\": "src/"
+        }
+    }
+}
+
