@@ -1,5 +1,5 @@
 <?php
-namespace Antidc;
+namespace Antidc\Api;
 
 /**
  * 管理员操作日志

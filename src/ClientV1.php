@@ -1,9 +1,8 @@
 <?php
 
-namespace Antidc;
+namespace Antidc\Api;
 
 use Exception;
-use Log;
 
 class ClientV1
 {
